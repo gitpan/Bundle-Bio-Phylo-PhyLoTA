@@ -1,7 +1,7 @@
 ---
 abstract: unknown
 author:
-  - unknown
+  - 'Karin Sara Nilsson'
 build_requires:
   ExtUtils::MakeMaker: 0
 configure_requires:
@@ -18,4 +18,4 @@ no_index:
     - t
     - inc
 requires: {}
-version: 0.1
+version: 0.2
